@@ -1,0 +1,25 @@
+{
+  "name": "Aambika Foods & Beverages - Plant Operations Hub",
+  "short_name": "Aambika Hub",
+  "description": "Plant Operations Hub for Aambika Foods & Beverages LLP",
+  "start_url": "/aambika-hub/",
+  "scope": "/aambika-hub/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f2f8",
+  "theme_color": "#e8520a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
